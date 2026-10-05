@@ -1,2 +1,2 @@
 def recovery_batch_size():
-    return 20
+    return 32
